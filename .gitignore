@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+*.cmf
+*.ctf
+*.cntk
+
+/Tutorials_ja/data/
+/Tutorials_ja/content.jpg
+/Tutorials_ja/style.jpg
+/Tutorials_ja/output_*.jpg
